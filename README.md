@@ -8,7 +8,7 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- 👨‍💻 I'm Back-End Web Developer (PHP-Laravel)
+- 👨‍💻 I'm a Full-Stack Web Developer (PHP-Laravel/Vue.js)
 - :school: I am a `Student` at the [Faculty of Computers & Artificial Intelligence](https://cai.du.edu.eg/) at [Damietta University](https://www.du.edu.eg/).
 - :computer: I am a competitive programmer at `Codeforces`,  `Leetcode`
 - ✍🏻 I love using Software as a solution for every Problem
