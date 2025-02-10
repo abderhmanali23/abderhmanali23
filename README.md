@@ -51,7 +51,7 @@
  
 <p align="center">
 &emsp;
-<a href="#"><img src="https://img.shields.io/badge/Larvel-%23092E20.svg?&style=plastic&logo=Laravel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Vue.js%23092E20.svg?&style=plastic&logo=Vue.js&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
