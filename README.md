@@ -41,7 +41,7 @@
   </a>
   &emsp;
   <a href="https://www.w3schools.com/js/" target="_blank"> 
-    <img alt="Js" src="https://img.shields.io/badge/logo-javescript">
+    <img alt="Js" src="https://img.shields.io/badge/logo-javescript?logo=JS">
   </a> 
 </p>
 
