@@ -41,8 +41,13 @@
   </a>
   &emsp;
   <a href="https://www.w3schools.com/js/" target="_blank"> 
-    <img alt="Js" src="https://img.shields.io/badge/logo-javascript?logo=JS">
-  </a> 
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  </a>
+  &emsp;
+  <a href="https://www.w3schools.com/js/" target="_blank"> 
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
+  </a>
+
 </p>
 
 
@@ -51,15 +56,29 @@
  
 <p align="center">
 &emsp;
-<a href="#"><img src="https://img.shields.io/badge/Vue.js%23092E20.svg?&style=plastic&logo=Vue.js&logoColor=white" /></a>
+<a href="https://vuejs.org/">
+	<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D"></a>
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+    <a href="https://git-scm.com/">
+	    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    <a href="https://github.com/">
+	    <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+    <a href="https://www.geeksforgeeks.org/">
+	    <img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+    <a href="https://www.mysql.com/">
+	    <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+  &emsp;
+    <a href="https://nuxt.com/">
+	<img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=plastic&logo=nuxtdotjs&logoColor=white">
+  &emsp;
+    <a href="https://pugjs.org/">
+	<img alt="Pug" src="https://img.shields.io/badge/Pug-%23A86454.svg?style=plastic&logo=pug&logoColor=white">
+  &emsp;
+	<a href="https://pugjs.org/">
+		<img alt="Pug" src="https://img.shields.io/badge/Pug-%23A86454.svg?style=plastic&logo=pug&logoColor=white">
 </p>
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
