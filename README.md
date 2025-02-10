@@ -40,8 +40,8 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="Js" src="https://img.shields.io/badge/Js%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  <a href="https://www.w3schools.com/js/" target="_blank"> 
+    <img alt="Js" src=" https://img.shields.io/badge/logo-javascript-blue?logo=javascript">
   </a> 
 </p>
 
