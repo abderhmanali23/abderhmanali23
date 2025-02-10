@@ -8,7 +8,7 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- 👨‍💻 I'm a Full-Stack Web Developer (PHP-Laravel/Vue.js)
+- 👨‍💻 I'm a Frontend Web Developer (Vue.js/Nuxt)
 - :school: I am a `Student` at the [Faculty of Computers & Artificial Intelligence](https://cai.du.edu.eg/) at [Damietta University](https://www.du.edu.eg/).
 - :computer: I am a competitive programmer at `Codeforces`,  `Leetcode`
 - ✍🏻 I love using Software as a solution for every Problem
@@ -41,7 +41,7 @@
   </a>
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+    <img alt="Js" src="https://img.shields.io/badge/Js%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
 </p>
 
