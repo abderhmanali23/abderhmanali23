@@ -32,19 +32,19 @@
 
 <p align="center"> 
   &emsp;
-    <a href="https://www.php.net/docs.php" target="_blank">
+    <a href="https://www.php.net/docs.php">
       <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%2314354C.svg?style=plastic&logo=php&logoColor=white">
     </a>
   &emsp;
-   <a href="https://www.python.org" target="_blank">
+   <a href="https://www.python.org">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.w3schools.com/js/" target="_blank"> 
+  <a href="https://www.w3schools.com/js/"> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
   </a>
   &emsp;
-  <a href="https://www.w3schools.com/js/" target="_blank"> 
+  <a href="https://www.w3schools.com/js/"> 
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
   </a>
 
@@ -72,10 +72,10 @@
 	    <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
   &emsp;
     <a href="https://nuxt.com/">
-	<img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=plastic&logo=nuxtdotjs&logoColor=white">
+	<img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=plastic&logo=nuxtdotjs&logoColor=white"></a>
   &emsp;
     <a href="https://pugjs.org/">
-	<img alt="Pug" src="https://img.shields.io/badge/Pug-%23A86454.svg?style=plastic&logo=pug&logoColor=white">
+	<img alt="Pug" src="https://img.shields.io/badge/Pug-%23A86454.svg?style=plastic&logo=pug&logoColor=white"></a>
 
 </p>
 
