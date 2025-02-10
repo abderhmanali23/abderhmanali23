@@ -76,9 +76,7 @@
   &emsp;
     <a href="https://pugjs.org/">
 	<img alt="Pug" src="https://img.shields.io/badge/Pug-%23A86454.svg?style=plastic&logo=pug&logoColor=white">
-  &emsp;
-	<a href="https://pugjs.org/">
-		<img alt="Pug" src="https://img.shields.io/badge/Pug-%23A86454.svg?style=plastic&logo=pug&logoColor=white">
+
 </p>
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
